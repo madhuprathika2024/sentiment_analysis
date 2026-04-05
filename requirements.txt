@@ -1,5 +1,6 @@
 streamlit
 PyPDF2
 pandas
-nltk
+plotly
 textblob
+numpy
