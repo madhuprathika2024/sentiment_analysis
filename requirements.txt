@@ -1,6 +1,5 @@
 streamlit
 PyPDF2
 pandas
-plotly
+plotly==5.22.0
 textblob
-numpy
